@@ -1,0 +1,113 @@
+*{margin: 0px;
+padding: 0px;
+
+}
+
+
+body {
+    background-image: url('./airplane-3702676.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+  }
+/* background image section */
+
+
+.sscm{
+height: 110px;
+width: 110px;
+}
+
+    header {
+        position: fixed;
+        top
+        : 0;
+        width: 100%;
+       
+      }
+
+      /* about section */
+
+.box{
+    margin: 20px;
+    font-size: 30px;
+}
+
+
+/* index p tag */
+
+.p1{
+    padding-top: 250px;
+font-size: 40px;
+padding-left: 200px;
+padding-right: 200px;
+color: rgb(252, 252, 252);
+text-decoration: solid;
+}
+.p2{
+padding-top: 300px;
+font-size: 70px;
+display: flex;
+justify-content: center;
+color: rgb(252, 252, 252);
+text-decoration: solid;
+}
+
+ /* other styles */
+h1{
+    font-size: 100px;
+}
+h1:hover{
+    color: rgb(121, 21, 21);
+}
+h2{
+    font-size: 25px;
+}
+.icon{
+margin-top: 300px;
+
+
+
+}
+
+
+
+                .icon{
+                    background-image: url(./white-blurred-background_1034-249.avif);
+                    background-size: cover;
+                    height: 200px;
+                    background-repeat: no-repeat;
+                    background-position: center;
+                    background-attachment: fixed;
+                    width: 100%;
+                   
+                }
+                .sicon{
+                    margin-top: 50px; 
+
+                }
+                .social{
+                    color: rgb(0, 0, 0);
+
+font-size: 50px;
+
+margin: 30px;
+
+text-decoration: none;
+
+                }
+
+                .social:hover{
+color: rgb(26, 211, 208);
+transition: 100ms;
+                }   
+
+
+              
+
+            
+
+                      
+                      
