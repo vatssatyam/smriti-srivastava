@@ -18,6 +18,7 @@ body {
 .sscm{
 height: 110px;
 width: 110px;
+margin-left: 10px;
 }
 
     header {
@@ -103,6 +104,83 @@ text-decoration: none;
 color: rgb(26, 211, 208);
 transition: 100ms;
                 }   
+
+
+
+@media screen and (max-width:900px) and (min-width:600px) {
+
+    body {
+        background-image: url('./istockphoto-155439315-612x612.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        
+      }
+
+
+    header {
+        position: fixed;
+        width: 100%;
+    }
+h1{
+font-size: 50px;
+color: rgb(0, 3, 3);
+}
+
+.sscm{
+    height: 80px;
+    width: 80px;
+   margin-left: 10px;
+
+    }
+    
+        header {
+            position: fixed;
+            top
+            : 0;
+            width: 100%;
+           
+          }
+    
+          /* about section */
+
+
+    
+    .box{
+        font-size: 30px;
+    }
+    a{
+        color: rgb(8, 85, 85);
+    }
+    a:hover{
+        color: rgb(126, 27, 27);
+    }
+    
+    /* index p tag */
+    
+    .p1{
+    padding-top: 10px;
+    font-size: 40px;
+    padding-left: 70px;
+    padding-right: 80px;
+    color: rgb(5, 3, 3);
+    text-decoration: solid;
+    }
+    .p2{
+        padding-top: 300px;
+        padding-left: 30px;
+        padding-right: 30px;
+        font-size: 25px;
+        display: flex;
+        justify-content: center;
+        color: rgb(0, 0, 0);
+        text-decoration: solid;
+        }   
+
+
+
+}
 
 
               
