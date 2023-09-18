@@ -105,9 +105,9 @@ color: rgb(26, 211, 208);
 transition: 100ms;
                 }   
 
+/* media screen */
 
-
-@media screen and (max-width:900px) and (min-width:600px) {
+@media screen and (max-width:1700px) and (min-width:600px) {
 
     body {
         background-image: url('./istockphoto-155439315-612x612.jpg');
