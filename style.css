@@ -23,8 +23,7 @@ margin-left: 10px;
 
     header {
         position: fixed;
-        top
-        : 0;
+        top: 20px;
         width: 100%;
        
       }
@@ -76,6 +75,7 @@ margin-top: 300px;
 
 
                 .icon{
+
                     background-image: url(./white-blurred-background_1034-249.avif);
                     background-size: cover;
                     height: 200px;
