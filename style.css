@@ -10,15 +10,24 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
-    animation: background 4s infinite;
+    animation: background 15s infinite;
+   
   }
 
-/* @keyframes background {
-0%{background-image: url(./FB_IMG_1695352949070.jpg);}
-0%{background-image: url(./FB_IMG_1695352949070.jpg);}
-0%{background-image: url(./FB_IMG_1695352949070.jpg);}
-0%{background-image: url(./FB_IMG_1695352949070.jpg);}
-} */
+@keyframes background {
+0%{background-image: url(./1.jpg);}
+10%{background-image: url(./found.jpg);}
+20%{background-image: url(./12.jpg);}
+30%{background-image: url(./13.jpg);}
+40%{background-image: url(./SMRITI.jpg);}
+50%{background-image: url(./3.jpg);}
+60%{background-image: url(./9.jpg);}
+70%{background-image: url(./5.jpg);}
+80%{background-image: url(./6.jpg);}
+90%{background-image: url(./7.jpg);}
+100%{background-image: url(./8.jpg);}
+120%{background-image: url(./FB_IMG_1695353131433.jpg);}
+}
 
 
 
