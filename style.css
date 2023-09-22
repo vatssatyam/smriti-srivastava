@@ -13,12 +13,12 @@ body {
     animation: background 4s infinite;
   }
 
-@keyframes background {
+/* @keyframes background {
 0%{background-image: url(./FB_IMG_1695352949070.jpg);}
 0%{background-image: url(./FB_IMG_1695352949070.jpg);}
 0%{background-image: url(./FB_IMG_1695352949070.jpg);}
 0%{background-image: url(./FB_IMG_1695352949070.jpg);}
-}
+} */
 
 
 
@@ -142,7 +142,7 @@ transition: 100ms;
 @media screen and (max-width:1700px) and (min-width:500px) {
 
     body {
-        background-image: url('./istockphoto-155439315-612x612.jpg');
+        background-image: url('./SMRITI.jpg');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -159,7 +159,11 @@ h1{
 font-size: 50px;
 color: rgb(0, 3, 3);
 }
+.nsdh{
+width: auto;
+height: fit-content;
 
+}
 .sscm{
     height: 80px;
     width: 80px;
@@ -193,7 +197,7 @@ color: rgb(0, 3, 3);
     
     .p1{
     padding-top: 10px;
-    font-size: 40px;
+    font-size:25px;
     padding-left: 150px;
     padding-right: 80px;
     color: rgb(5, 3, 3);
