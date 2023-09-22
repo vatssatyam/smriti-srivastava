@@ -101,7 +101,7 @@ text-decoration: solid;
  /* other styles */
 h1{
     font-size: 100px;
-    color: rgb(233, 223, 222);
+    color: rgb(237, 228, 227);
 }
 h1:hover{
     color: rgb(231, 64, 64);
@@ -166,7 +166,7 @@ transition: 100ms;
     }
 h1{
 font-size: 50px;
-color: rgb(0, 3, 3);
+color: rgb(210, 229, 229);
 }
 .nsdh{
 width: auto;
